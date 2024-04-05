@@ -1,0 +1,14 @@
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/bin/Debug/net8.0/CheckWeather
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/bin/Debug/net8.0/CheckWeather.deps.json
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/bin/Debug/net8.0/CheckWeather.runtimeconfig.json
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/bin/Debug/net8.0/CheckWeather.dll
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/bin/Debug/net8.0/CheckWeather.pdb
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/obj/Debug/net8.0/CheckWeather.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/obj/Debug/net8.0/CheckWeather.AssemblyInfoInputs.cache
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/obj/Debug/net8.0/CheckWeather.AssemblyInfo.cs
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/obj/Debug/net8.0/CheckWeather.csproj.CoreCompileInputs.cache
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/obj/Debug/net8.0/CheckWeather.dll
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/obj/Debug/net8.0/refint/CheckWeather.dll
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/obj/Debug/net8.0/CheckWeather.pdb
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/obj/Debug/net8.0/CheckWeather.genruntimeconfig.cache
+/Users/alexuntilov/RiderProjects/CheckWeather/CheckWeather/obj/Debug/net8.0/ref/CheckWeather.dll
